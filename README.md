@@ -38,6 +38,8 @@ tresult PLUGIN_API StudioOneTestProcessor::notify (Steinberg::Vst::IMessage* mes
 
 [source/mypluginprocessor.cpp#L31-L45](source/mypluginprocessor.cpp#L31-L45)
 
+![Screenshot](Screenshot.png)
+
 To build the plug-in, the VST3 SDK and CMake are required.
 
 https://steinbergmedia.github.io/vst3_dev_portal/pages/Getting+Started/Links.html#getting-vst-3-sdk
